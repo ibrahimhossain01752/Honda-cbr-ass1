@@ -1,0 +1,44 @@
+.banner{
+    background-color: #264653;
+    width: auto;
+  
+}
+.button{
+    background-color: #E76F51;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.sm-color{
+    color: #E76F51;
+}
+.star{
+    color: #E76F51;
+    background-position:center ;
+    margin-left: 48px;
+    margin-right: 48px;
+}
+.user{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.review{
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+.name{
+    margin-left: 8px;
+    margin-right: 8px;  
+}
+.name1{
+    margin-left: 25px;
+    margin-right: 25px;  
+}
